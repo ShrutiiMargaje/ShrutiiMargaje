@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://shrutiimargaje.github.io/HTMLnCSS/](https://shrutiimargaje.github.io/HTMLnCSS/)
+- 👨‍💻 All of my projects are available at [https://github.com/ShrutiiMargaje)
 
 - 📫 How to reach me **shrutimargaje@gmail.com**
 
